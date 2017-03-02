@@ -1,2 +1,31 @@
-# limited_torches
-A Minetest mod which causes torches to burn out after a while
+# Burning out Torches
+
+###A mod for [Minetest](http://www.minetest.net)
+
+Torches will be time-limited, meaning they will eventually burn out. "Use" coal on them to refuel them.
+
+## Code License
+
+Copyright (C) 2010-2016 Minetest Community, and Copyright (C) 2017 Justin Law
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation; either version 2.1 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+## Texture License
+
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Copyright (c) 2010-2013 Perttu Ahola <celeron55@gmail.com>
+and contributors
